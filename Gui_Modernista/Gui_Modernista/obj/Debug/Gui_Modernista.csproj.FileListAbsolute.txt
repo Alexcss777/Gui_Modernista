@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\Gui_Modernista\Gui_Modernista\bin\Debug\Gui_Modernista.exe.config
+C:\Users\Alex\source\repos\Gui_Modernista\Gui_Modernista\bin\Debug\Gui_Modernista.exe
+C:\Users\Alex\source\repos\Gui_Modernista\Gui_Modernista\bin\Debug\Gui_Modernista.pdb
+C:\Users\Alex\source\repos\Gui_Modernista\Gui_Modernista\obj\Debug\Gui_Modernista.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Gui_Modernista\Gui_Modernista\obj\Debug\Gui_Modernista.Form1.resources
+C:\Users\Alex\source\repos\Gui_Modernista\Gui_Modernista\obj\Debug\Gui_Modernista.Properties.Resources.resources
+C:\Users\Alex\source\repos\Gui_Modernista\Gui_Modernista\obj\Debug\Gui_Modernista.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Gui_Modernista\Gui_Modernista\obj\Debug\Gui_Modernista.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Gui_Modernista\Gui_Modernista\obj\Debug\Gui_Modernista.exe
+C:\Users\Alex\source\repos\Gui_Modernista\Gui_Modernista\obj\Debug\Gui_Modernista.pdb
